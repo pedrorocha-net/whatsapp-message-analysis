@@ -23,10 +23,6 @@ It's a script that analyzes all the messages in a given WhatsApp group chat and 
 
 ```
 groupname-data.xlsx
-groupname-date_activity.png
-groupname-person_activity.png
-groupname-time_activity.png
-groupname-word_frequency.png
 ```
 
 ## Known Bugs & Issues:
