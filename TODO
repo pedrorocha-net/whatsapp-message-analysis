@@ -1,0 +1,5 @@
+- Procurar proxima linha a considerar (ignorar até última registro já salvo - precisa ser a linha completa - e iniciar dali)
+
+- Verificar quais começam com E Se
+
+- Separar por rodadas a cada <<<FIM>>>
